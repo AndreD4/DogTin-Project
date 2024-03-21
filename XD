@@ -1,0 +1,41 @@
+[33mcommit ad9f3f7f1d936d0ce2d02df21413807ae8104b8b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 11:45:15 2024 +0900
+
+    features styling
+
+[33mcommit ef8332b72a6b6688ff895b34984c4f30d467f7bc[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 11:40:22 2024 +0900
+
+    styling Title section
+
+[33mcommit 5c8b88c62ebe63b9ec1f334099042ffca21f201e[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 11:14:11 2024 +0900
+
+     feature set up
+
+[33mcommit df5ffc37e70953e6858c32a6f853da08ad4c1212[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 11:01:39 2024 +0900
+
+    tile set up using bootstrap
+
+[33mcommit 98a6eabfb2b57af9fd2b64facb9724fb333e6684[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 10:44:12 2024 +0900
+
+     bootstrap script
+
+[33mcommit 281501cc8157f64c71debd19d66b43447c72121d[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 10:42:31 2024 +0900
+
+    bootstrap and css set up
+
+[33mcommit 547b869445b832287486facc148ddedaf4759637[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Andre Mayn <andremai629@gmail.com>
+Date:   Thu Mar 21 10:26:50 2024 +0900
+
+    first commit
